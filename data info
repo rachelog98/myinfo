@@ -1,0 +1,286 @@
+/* 1 */
+{
+    "_id" : ObjectId("5899c766dd6c49277f3a2941"),
+    "user_id" : "ABCDBWN",
+    "password" : "ABCDBWN",
+    "date_of_join" : "15/10/2010",
+    "education" : "B.C.A.",
+    "profession" : "DEVELOPER",
+    "interest" : "MUSIC",
+    "community_name" : [ 
+        "MODERN MUSIC", 
+        "CLASSICAL MUSIC", 
+        "WESTERN MUSIC"
+    ],
+    "community_moder_id" : [ 
+        "MR. BBB", 
+        "MR. JJJ", 
+        "MR MMM"
+    ],
+    "community_members" : [ 
+        500.0, 
+        200.0, 
+        1500.0
+    ],
+    "friends_id" : [ 
+        "MMM123", 
+        "NNN123", 
+        "OOO123"
+    ],
+    "ban_friends_id" : [ 
+        "BAN123", 
+        "BAN456", 
+        "BAN789"
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5899cc29dd6c49277f3a2942"),
+    "user_id" : "RACHEL",
+    "password" : "ABCDEF",
+    "date_of_join" : "07/02/2017",
+    "education" : "UNIVERSITY",
+    "profession" : "STUDENT",
+    "interest" : "ART",
+    "community_name" : [ 
+        "RENAISSANCE", 
+        "MODERN ART"
+    ],
+    "community_moder_id" : [ 
+        "MR. JACK", 
+        "MR. BASS", 
+        "MRS SMITH"
+    ],
+    "community_members" : [ 
+        508.0, 
+        290.0, 
+        1590.0
+    ],
+    "friends_id" : [ 
+        "MMM193", 
+        "NNN193", 
+        "OOO103"
+    ],
+    "ban_friends_id" : [ 
+        "BAN963", 
+        "BAN406", 
+        "BAN919"
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5899d1c9dd6c49277f3a2944"),
+    "user_id" : "JADE",
+    "password" : "KUWCSD",
+    "date_of_join" : "15/10/2017",
+    "education" : "POST GRADUATE",
+    "profession" : "SYSTEM PROGRAMMER",
+    "interest" : "COMPUTERS",
+    "community_name" : [ 
+        "MICROSOFT", 
+        "SQL", 
+        "PROGRAMME"
+    ],
+    "community_moder_id" : [ 
+        "MR. BART", 
+        "MR. BEKET", 
+        "MRS BENNETT"
+    ],
+    "community_members" : [ 
+        546.0, 
+        190.0, 
+        2000.0
+    ],
+    "friends_id" : [ 
+        "MMM098", 
+        "NNN098", 
+        "OOO098"
+    ],
+    "ban_friends_id" : [ 
+        "BAN216", 
+        "BAN986", 
+        "BAN500"
+    ]
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5899d247dd6c49277f3a2945"),
+    "user_id" : "SASHA",
+    "password" : "AIFSGJ",
+    "date_of_join" : "15/10/2017",
+    "education" : "POST GRADUATE",
+    "profession" : "SYSTEM PROGRAMMER",
+    "interest" : "MUSIC",
+    "community_name" : [ 
+        "HIP POP", 
+        "CLASSICAL MUSIC", 
+        "AFROBEAT"
+    ],
+    "community_moder_id" : [ 
+        "MR. CHARLES", 
+        "MR. KIT", 
+        "MRS SOLOMON"
+    ],
+    "community_members" : [ 
+        500.0, 
+        200.0, 
+        1500.0
+    ],
+    "friends_id" : [ 
+        "MMM707", 
+        "NNN707", 
+        "OOO707"
+    ],
+    "ban_friends_id" : [ 
+        "BAN426", 
+        "BAN864", 
+        "BAN779"
+    ]
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5899d40bdd6c49277f3a2947"),
+    "user_id" : "CHRIS",
+    "password" : "HGYSVR",
+    "date_of_join" : "02/02/2017",
+    "education" : "COLLEGE",
+    "profession" : "FRENCH TUTOR",
+    "interest" : "MUSIC",
+    "community_name" : [ 
+        "POP", 
+        "OPERA", 
+        "HOUSE MUSIC"
+    ],
+    "community_moder_id" : [ 
+        "MR. CK", 
+        "MR. PATRICK", 
+        "MRS TING"
+    ],
+    "community_members" : [ 
+        100.0, 
+        876.0, 
+        1539.0
+    ],
+    "friends_id" : [ 
+        "MMM309", 
+        "NNN309", 
+        "OOO309"
+    ],
+    "ban_friends_id" : [ 
+        "BAN321", 
+        "BAN456", 
+        "BAN789"
+    ]
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5899decadd6c49277f3a2948"),
+    "user_id" : "Lee",
+    "password" : "NHYFGX",
+    "date_of_join" : "04/03/2017",
+    "education" : "STUDENT",
+    "profession" : "CHILD MINDER",
+    "interest" : "BALLET",
+    "community_name" : [ 
+        "GISELLE", 
+        "SWAN LAKE", 
+        "ROMEO AND JULIET"
+    ],
+    "community_moder_id" : [ 
+        "RYAN JENKINS", 
+        "OPERA", 
+        "CLASSICAL MUSIC"
+    ],
+    "community_members" : [ 
+        48.0, 
+        901.0, 
+        1501.0
+    ],
+    "friends_id" : [ 
+        "MMM245", 
+        "NNN245", 
+        "OOO245"
+    ],
+    "ban_friends_id" : [ 
+        "BAN864", 
+        "BAN846", 
+        "BAN146"
+    ]
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5899e030dd6c49277f3a2949"),
+    "user_id" : "KAREN",
+    "password" : "KJHIGV",
+    "date_of_join" : "22/10/2016",
+    "education" : "UNIVERSITY",
+    "profession" : "STUDENT",
+    "interest" : "SINGING",
+    "community_name" : [ 
+        "OLD SKOOL", 
+        "POP", 
+        "AFROBEAT"
+    ],
+    "community_moder_id" : [ 
+        "GOLDLINK", 
+        "TINK", 
+        "BEYONCE"
+    ],
+    "community_members" : [ 
+        0.0, 
+        1.0, 
+        1001.0
+    ],
+    "friends_id" : [ 
+        "MMM200", 
+        "NNN200", 
+        "OOO200"
+    ],
+    "ban_friends_id" : [ 
+        "BAN659", 
+        "BAN106", 
+        "BAN982"
+    ]
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5899f2e7dd6c49277f3a294a"),
+    "user_id" : "RAY",
+    "password" : "GDEERN",
+    "date_of_join" : "01/01/2010",
+    "education" : "MASTERS",
+    "profession" : "PROFESSOR",
+    "interest" : "MUSIC",
+    "community_name" : [ 
+        "CLASSICAL", 
+        "HIP POP", 
+        "EUROPEAN MUSIC"
+    ],
+    "community_moder_id" : [ 
+        "RYAN JENKINS", 
+        "OPERA", 
+        "CLASSICAL MUSIC"
+    ],
+    "community_members" : [ 
+        95.0, 
+        465.0, 
+        1761.0
+    ],
+    "friends_id" : [ 
+        "MMM054", 
+        "NNN054", 
+        "OOO054"
+    ],
+    "ban_friends_id" : [ 
+        "BAN323", 
+        "BAN236", 
+        "BAN836"
+    ]
+}
